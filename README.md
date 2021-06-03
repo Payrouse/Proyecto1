@@ -15,3 +15,8 @@ git show
 
 
 git status
+
+git branch [nombre de la nueva rama] -> Sirve para crear una nueva rama al proyecto
+
+git checkout [rama] -> Sirve para moverse entre las ramas
+
