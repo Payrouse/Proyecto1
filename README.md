@@ -1,4 +1,4 @@
-### Proyecto1 :tw-1f527:
+### Proyecto1 
 ###### ## Es un proyecto para el curso de git y git hub
 
 - git init -> crea el repositorio.
