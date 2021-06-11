@@ -1,10 +1,6 @@
 body
 {
-<<<<<<< HEAD
-    background: #1e1f24;
-=======
     
->>>>>>> footer
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -21,7 +17,6 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-<<<<<<< HEAD
 }
 
 #cabecera #logo
@@ -30,12 +25,6 @@ body
     vertical-align: middle;
 }
 
-=======
-}
-
-
-
->>>>>>> footer
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -60,8 +49,6 @@ body
 {
     background: white;
     padding: 1em;
-<<<<<<< HEAD
-=======
 }
 
 #footer{
@@ -69,5 +56,4 @@ body
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
 }
