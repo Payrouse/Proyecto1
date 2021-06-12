@@ -1,5 +1,5 @@
 ### Proyecto1 
-###### Es un proyecto para el curso de git y git hub
+#### Es un proyecto para el curso de git y git hub
 
 - git init -> crea el repositorio.
 
