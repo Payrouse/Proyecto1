@@ -1,5 +1,5 @@
 ### Proyecto1 
-###### ## Es un proyecto para el curso de git y git hub
+###### Es un proyecto para el curso de git y git hub
 
 - git init -> crea el repositorio.
 
@@ -39,8 +39,9 @@
 
 git reset es una mala práctica, no deberías usarlo en ningún momento; debe ser nuestro último recurso.
 
-####Para buscar utilizamos el comando git grep color y nos buscará en todo el proyecto los archivos en donde está la palabra color.
+#### Para buscar utilizamos el comando git grep color y nos buscará en todo el proyecto los archivos en donde está la palabra color.
 
 - Con git grep -n color nos saldrá un output el cual nos dirá en qué línea está lo que estamos buscando.
 - Con git grep -c color nos saldrá un output el cual nos dirá cuántas veces se repite esa palabra y en qué archivo.
+- 
 Si queremos buscar cuántas veces utilizamos un atributo de HTML lo hacemos con git grep -c "<p>".
