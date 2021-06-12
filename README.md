@@ -46,3 +46,6 @@ git reset es una mala práctica, no deberías usarlo en ningún momento; debe se
 
 
 Si queremos buscar cuántas veces utilizamos un atributo de HTML lo hacemos con git grep -c "<p>".
+    
+## Para mas informacion visitar la siguiente documentacion 
+    https://git-scm.com/docs/git-blame
