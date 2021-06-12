@@ -43,5 +43,4 @@ git reset es una mala práctica, no deberías usarlo en ningún momento; debe se
 
 - Con git grep -n color nos saldrá un output el cual nos dirá en qué línea está lo que estamos buscando.
 - Con git grep -c color nos saldrá un output el cual nos dirá cuántas veces se repite esa palabra y en qué archivo.
-- 
 Si queremos buscar cuántas veces utilizamos un atributo de HTML lo hacemos con git grep -c "<p>".
