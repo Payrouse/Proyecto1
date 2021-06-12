@@ -33,6 +33,8 @@
 
     eval "$(ssh-agent -s)"
 
+
+
     git reset --soft HashDelHEAD te mantiene lo que tengas en staging ahí.
     git reset --hard HashDelHEAD resetea absolutamente todo incluyendo lo que tengas en staging.
 
